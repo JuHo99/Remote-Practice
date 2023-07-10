@@ -2,7 +2,7 @@
 
 ## README 연습
 
-[구글링크](https://www.google.com)
+[네이버링크](https://www.naver.com)
 
 ```java
 
