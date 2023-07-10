@@ -1,6 +1,6 @@
 # Remote-Practice
 
-##README 연습
+## README 연습
 
 [구글링크](https://www.google.com)
 
